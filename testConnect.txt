@@ -2,4 +2,4 @@ test connect again!
 
 test push!
 
-create a new branch quick & simple!
+create a new branch is quick And simple!
