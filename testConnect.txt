@@ -3,3 +3,5 @@ test connect again!
 test push!
 
 create a new branch is quick And simple!
+
+add merge
